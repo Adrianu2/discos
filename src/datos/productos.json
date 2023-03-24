@@ -1,0 +1,44 @@
+[
+    {
+        "img": "imagenes/imagen1.jpg",
+        "titulo": "CD Usado",
+        "descripcion": "Primera Edicion",
+        "precio": 35,
+        "categoria":"funk"
+      },
+      {
+        "img": "imagenes/imagen3.jpg",
+        "titulo": "Disco Vinilo",
+        "descripcion": "Primera Edicion",
+        "precio": 250,
+        "categoria":"novedades"
+
+      },
+      {
+        "img": "imagenes/imagen10.jpg",
+        "titulo": "CD Nuevo",
+        "descripcion": " Edicion Limitada",
+        "precio": 52
+      },
+      {
+        "img": "imagenes/imagen11.jpg",
+        "titulo": "Cd Nuevo",
+        "descripcion": "Luxery Edition",
+        "precio": 47,
+        "categoria":"novedades"
+      },
+      {
+        "img": "imagenes/imagen9.jpg",
+        "titulo": "Cd Nuevo",
+        "descripcion": "Luxery Edition",
+        "precio": 47,
+        "categoria":"funk"
+      },
+      {
+        "img": "imagenes/chakakhan.jpg",
+        "titulo": "Cd Nuevo",
+        "descripcion": "Luxery Edition",
+        "precio": 47,
+        "categoria": "boggie"
+      }
+] 

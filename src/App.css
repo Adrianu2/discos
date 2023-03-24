@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  color: dimgray;
+  background-color: black;
+  padding: 1.5rem;
+  
+  
+}
+h2{
+  color:dimgray;
+  background-color:black;
+  padding: 1.5rem;
+
+}
+h3{
+  
+  color: dimgray;
+  background-color: black;
+  padding: 1.5rem;
+  
+  
+}
+h4{
+  color: black;
+  
+}
+p{
+  color: blue;
+}
+

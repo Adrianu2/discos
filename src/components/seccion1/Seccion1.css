@@ -1,0 +1,35 @@
+
+.contenedor_producto{
+    background-color: dimgrey;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    text-align: center;
+    margin: 1rem 0 ;
+    
+    
+}
+
+.boton_filter{
+   
+    background-color: dimgray;
+    font-size: 1.5rem;
+    padding: 1rem ;
+    
+}
+
+
+.boton{
+    display: flex;
+    justify-content:space-around;
+    background-color: blue;
+}
+
+.boton_funk p{
+    color:black;
+}
+
+    
+    
+
+    
